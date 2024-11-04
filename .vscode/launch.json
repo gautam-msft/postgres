@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "debugpy",
+            "request": "launch",
+            "name": "Launch start.py",
+            "program": "${workspaceFolder}/start.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
